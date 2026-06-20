@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Gradual Decline",
+  "universe": "LOS · The Gradual Decline (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Gradual Decline:LOS:55cfb0⟧",
+  "carbon": "the-gradual-decline.carbon.tiff (TIFF)",
+  "silicon": "the-gradual-decline.silicon.png (PNG)",
+  "seal_sha256": "7210925a849699297cfc21c748354a2cc92536454f28bd907daf3c3b72459195",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

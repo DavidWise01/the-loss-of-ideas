@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Library of Alexandria",
+  "universe": "LOS · The Library of Alexandria (polemos)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Library of Alexandria:LOS:7223a3⟧",
+  "carbon": "the-library-of-alexandria.carbon.tiff (TIFF)",
+  "silicon": "the-library-of-alexandria.silicon.png (PNG)",
+  "seal_sha256": "b0584023fef6027501d06074451a30252632438c1863cc872ecf22232bad95b6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

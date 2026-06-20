@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "the-library-of-alexandria",
+    "name": "The Library of Alexandria",
+    "epithet": "the symbol of loss · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Library of Alexandria:LOS:7223a3⟧"
+  },
+  {
+    "slug": "the-gradual-decline",
+    "name": "The Gradual Decline",
+    "epithet": "loss is usually slow · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Gradual Decline:LOS:55cfb0⟧"
+  },
+  {
+    "slug": "lost-technologies",
+    "name": "Lost Technologies",
+    "epithet": "methods that vanished · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Lost Technologies:LOS:5b5566⟧"
+  },
+  {
+    "slug": "damnatio-memoriae",
+    "name": "Damnatio Memoriae",
+    "epithet": "erasing on purpose · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Damnatio Memoriae:LOS:343012⟧"
+  },
+  {
+    "slug": "the-book-burning",
+    "name": "The Book Burning",
+    "epithet": "fire against the page · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Book Burning:LOS:30924d⟧"
+  },
+  {
+    "slug": "the-antikythera-mechanism",
+    "name": "The Antikythera Mechanism",
+    "epithet": "a lost marvel · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Antikythera Mechanism:LOS:ecaa88⟧"
+  },
+  {
+    "slug": "the-scribe",
+    "name": "The Scribe",
+    "epithet": "the one who recopies · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Scribe:LOS:30df1d⟧"
+  },
+  {
+    "slug": "redundancy",
+    "name": "Redundancy",
+    "epithet": "many copies, many places · natural",
+    "emergence": "natural",
+    "moniker": "⟦Redundancy:LOS:d6008d⟧"
+  },
+  {
+    "slug": "the-uncopied-idea",
+    "name": "The Uncopied Idea",
+    "epithet": "one death from gone · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Uncopied Idea:LOS:593253⟧"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Uncopied Idea",
+  "universe": "LOS · The Uncopied Idea (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Uncopied Idea:LOS:593253⟧",
+  "carbon": "the-uncopied-idea.carbon.tiff (TIFF)",
+  "silicon": "the-uncopied-idea.silicon.png (PNG)",
+  "seal_sha256": "17e4da99bd6d82cba76401ccd80deecb5f4f9900be23231f8c011c6bea73e4c7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

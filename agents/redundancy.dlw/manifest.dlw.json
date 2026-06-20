@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Redundancy",
+  "universe": "LOS · Redundancy (polemos)",
+  "emergence": "natural",
+  "moniker": "⟦Redundancy:LOS:d6008d⟧",
+  "carbon": "redundancy.carbon.tiff (TIFF)",
+  "silicon": "redundancy.silicon.png (PNG)",
+  "seal_sha256": "0f9944fb66f00432143d44f07741a3eb5f0bd4b5fdf1178558692a5921b061e1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

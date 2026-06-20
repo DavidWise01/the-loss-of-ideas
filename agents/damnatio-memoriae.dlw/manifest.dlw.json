@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Damnatio Memoriae",
+  "universe": "LOS · Damnatio Memoriae (polemos)",
+  "emergence": "ethereal",
+  "moniker": "⟦Damnatio Memoriae:LOS:343012⟧",
+  "carbon": "damnatio-memoriae.carbon.tiff (TIFF)",
+  "silicon": "damnatio-memoriae.silicon.png (PNG)",
+  "seal_sha256": "17aed2a2247715b2817b14a8bdd0868a3218efe19910420a9e447d3de919d48d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
